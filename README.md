@@ -2,7 +2,7 @@
 
 ## About me 😊
 
-Hey! I’m Shreyas, a Software Engineering student and developer who enjoys turning ideas into real, working software. I’m deeply interested in programming, cybersecurity, web development, game development, and building tools that solve practical problems. I spend a lot of my time experimenting with new technologies, developing personal projects, participating in hackathons, and understanding how things actually work behind the scenes rather than simply using them. I enjoy working on both serious engineering projects and creative experiments — from web applications and security tools to game modifications and interactive experiences.
+Hey! I’m Shreyas, a Software Engineering student and developer who enjoys turning ideas into real, working software. I’m deeply interested in programming, cybersecurity, web development, game development, and building tools that solve practical problems. I spend a lot of my time experimenting with new technologies, developing personal projects, participating in hackathons, and understanding how things actually work behind the scenes rather than simply using them. I enjoy working on both serious engineering projects and creative experiments from web applications and security tools to game modifications and interactive experiences.
 
 ## Tech Stack ⚙️
 
