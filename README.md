@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<img src="https://github.com/Shreongit/shreongit/blob/main/3.png" alt="Hello world">
 
 ## About me 😊
 
