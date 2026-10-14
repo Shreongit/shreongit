@@ -6,7 +6,8 @@ Hey! I’m Shreyas, a Software Engineering student and developer who enjoys turn
 
 ## Tech Stack ⚙️
 
-My primary programming language is Python, which I use for backend development, automation, data processing, scripting, cybersecurity experiments, and problem solving. I also work with JavaScript for web development and use C#/.NET for game development and GTA V modding projects. For web development, I work with HTML, CSS, JavaScript, React, Node.js, Vite, Tailwind CSS, and Flask, with PostgreSQL for relational database work. I also use tools such as Postman, Git, GitHub, npm, VS Code, PyCharm, WebStorm, and Rider as part of my development workflow.
+I am a developer who builds backend systems, automation tools, and interactive games. My primary stack is Python for robust backend engineering, data processing, and cybersecurity scripts. I also specialize in the C#/.NET ecosystem, writing clean code for game development and GTA V modding projects. On the front end, I build responsive user experiences using React, Vite, and Tailwind CSS. I back my applications with PostgreSQL databases and streamline my daily workflow using modern JetBrains IDEs and Git.
+
 
 ## Get in touch
 
