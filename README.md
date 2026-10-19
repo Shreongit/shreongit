@@ -12,3 +12,9 @@ I am a developer who builds backend systems, automation tools, and interactive g
 ## Get in touch
 
 [LinkedIn](https://www.linkedin.com/in/shreyaspathakk)ㅤㅤㅤㅤ[Instagram](https://www.instagram.com/shreonit/)ㅤㅤㅤㅤ[HackerRank](https://www.hackerrank.com/profile/pathakshreyas04)ㅤㅤㅤㅤ[LeetCode](https://leetcode.com/u/shreyasonit/)
+
+
+<p align="left">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
+  </a>
