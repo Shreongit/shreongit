@@ -16,8 +16,13 @@ I am a developer who builds backend systems, automation tools, and interactive g
 ## Get in touch
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="YOUR_INSTAGRAM_URL"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40" alt="Instagram" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="YOUR_HACKERRANK_URL"><img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="40" height="40" alt="HackerRank" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="YOUR_LEETCODE_URL"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="40" height="40" alt="LeetCode" /></a>
+  <a href="https://www.linkedin.com/in/shreyaspathakk">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="120" height="45" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/pathakshreyas04">
+    <img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="120" height="45" alt="HackerRank" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/shreyasonit/">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="120" height="45" alt="LeetCode" />
+  </a>
 </p>
