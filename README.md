@@ -11,18 +11,14 @@ I am a developer who builds backend systems, automation tools, and interactive g
 
 ## Get in touch
 
-[LinkedIn](https://www.linkedin.com/in/shreyaspathakk)ㅤㅤㅤㅤ[Instagram](https://www.instagram.com/shreonit/)ㅤㅤㅤㅤ[HackerRank](https://www.hackerrank.com/profile/pathakshreyas04)ㅤㅤㅤㅤ[LeetCode](https://leetcode.com/u/shreyasonit/)
-
-## Get in touch
-
 <p align="left">
   <a href="https://www.linkedin.com/in/shreyaspathakk">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="120" height="45" alt="LinkedIn" />
+    <img src="https://github.com/Shreongit/shreongit/blob/main/1.png" width="120" height="45" alt="LinkedIn" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/profile/pathakshreyas04">
-    <img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="120" height="45" alt="HackerRank" />
+    <img src="https://github.com/Shreongit/shreongit/blob/main/2.png" width="120" height="45" alt="HackerRank" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/shreyasonit/">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="120" height="45" alt="LeetCode" />
+    <img src="https://github.com/Shreongit/shreongit/blob/main/4.png" width="120" height="45" alt="LeetCode" />
   </a>
 </p>
