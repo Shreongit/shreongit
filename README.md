@@ -8,19 +8,16 @@ Hey! I’m Shreyas, a Software Engineering student and developer who enjoys turn
 
 I am a developer who builds backend systems, automation tools, and interactive games. My primary stack is Python for robust backend engineering, data processing, and cybersecurity scripts. I also specialize in the C#/.NET ecosystem, writing clean code for game development and GTA V modding projects. On the front end, I build responsive user experiences using React, Vite, and Tailwind CSS. I back my applications with PostgreSQL databases and streamline my daily workflow using modern JetBrains IDEs and Git.
 
-
-## Get in touch
-
 ## Get in touch
 
 <p align="left">
   <a href="https://www.linkedin.com/in/shreyaspathakk">
     <img src="https://raw.githubusercontent.com/Shreongit/shreongit/main/1.png" height="55" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;;&nbsp;;&nbsp;
   <a href="https://www.hackerrank.com/profile/pathakshreyas04">
     <img src="https://raw.githubusercontent.com/Shreongit/shreongit/main/2.png" height="55" alt="HackerRank" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;;&nbsp;;&nbsp;
   <a href="https://leetcode.com/u/shreyasonit/">
     <img src="https://raw.githubusercontent.com/Shreongit/shreongit/main/4.png" height="55" alt="LeetCode" />
   </a>
-</p>>
+</p>
