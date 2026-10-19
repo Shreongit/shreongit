@@ -13,10 +13,10 @@ I am a developer who builds backend systems, automation tools, and interactive g
 <p align="left">
   <a href="https://www.linkedin.com/in/shreyaspathakk">
     <img src="https://raw.githubusercontent.com/Shreongit/shreongit/main/1.png" height="55" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;;&nbsp;;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/profile/pathakshreyas04">
     <img src="https://raw.githubusercontent.com/Shreongit/shreongit/main/2.png" height="55" alt="HackerRank" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;;&nbsp;;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/shreyasonit/">
     <img src="https://raw.githubusercontent.com/Shreongit/shreongit/main/4.png" height="55" alt="LeetCode" />
   </a>
